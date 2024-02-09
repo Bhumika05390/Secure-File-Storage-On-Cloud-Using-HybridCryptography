@@ -48,9 +48,11 @@ To restore the file:</br>
 2. Decrypt the keys of the algorithms.</br>
 3. Decrypt all the N subfiles using the same algorithms which were used to encrypt them.</br>
 4. Combine all the N subfiles to form the original file and provide it to the user for downloading.</br>
-![image](https://user-images.githubusercontent.com/84393721/200167780-0753d9e1-dca1-46f7-8f82-117ec4bf76da.png)
-![image](https://user-images.githubusercontent.com/84393721/200167160-407095ee-f195-453a-af13-1f0f3560b529.png)
-![image](https://user-images.githubusercontent.com/84393721/200167619-55af5480-a480-4e4e-a356-a2009311b910.png)
+![image](https://github.com/Bhumika05390/Secure-File-Storage-On-Cloud-Using-HybridCryptography/assets/79781292/822fd51c-c108-4a26-9e44-ff71c48ba8d8)
+![image](https://github.com/Bhumika05390/Secure-File-Storage-On-Cloud-Using-HybridCryptography/assets/79781292/cffe41c6-8814-451d-8046-b7cba9dee97d)
+![image](https://github.com/Bhumika05390/Secure-File-Storage-On-Cloud-Using-HybridCryptography/assets/79781292/2346a53a-33f0-4b11-8acb-ef492b6f0531)
+
+
 
 
 
