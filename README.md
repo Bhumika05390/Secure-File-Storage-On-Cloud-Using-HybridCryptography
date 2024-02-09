@@ -6,7 +6,8 @@
 ## About 
 #### The aim of the project is to create an encrypted and secured file storage system to transfer files within users in a remote location. This system will require an input that is successfully encrypted using any of the algorithm techniques and store them anywhere. The uploaded file can be downloaded by other users, but to read the data present in it, they have to decrypt the file using the decryption algorithm and the information provided about the file within the users by the owner
 
- ![image](https://user-images.githubusercontent.com/84393721/200160165-65d3b29b-41d8-4008-afaa-ac7376d8eb07.png)
+ ![image](https://github.com/Bhumika05390/Secure-File-Storage-On-Cloud-Using-HybridCryptography/assets/79781292/c0b0395c-7a7c-4cab-a74a-358f72a4fdc8)
+
 
 # Table of contents
 - [Installation](#installation)
