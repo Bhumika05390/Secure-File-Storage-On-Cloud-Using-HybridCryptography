@@ -52,14 +52,3 @@ To restore the file:</br>
 ![image](https://github.com/Bhumika05390/Secure-File-Storage-On-Cloud-Using-HybridCryptography/assets/79781292/822fd51c-c108-4a26-9e44-ff71c48ba8d8)
 ![image](https://github.com/Bhumika05390/Secure-File-Storage-On-Cloud-Using-HybridCryptography/assets/79781292/cffe41c6-8814-451d-8046-b7cba9dee97d)
 ![image](https://github.com/Bhumika05390/Secure-File-Storage-On-Cloud-Using-HybridCryptography/assets/79781292/2346a53a-33f0-4b11-8acb-ef492b6f0531)
-
-
-
-
-
-# License
-
-[(Back to top)](#table-of-contents)
-
-
-The MIT License (MIT) 2017 - [OPEN COMMUNITY](https://github.com/upes-open).
